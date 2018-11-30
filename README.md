@@ -1,6 +1,6 @@
 ## DESCRIPTION
 
-This project parses [http://www.prokatpalatok.ru/](http://www.prokatpalatok.ru/) for items and creates JSON files. 
+This project parses [http://www.prokatpalatok.ru/](http://www.prokatpalatok.ru/) for items and creates JSON file. 
 
 ## HOW TO RUN
 
